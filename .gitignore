@@ -22,5 +22,5 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Logs
-*.log
+# Other projects
+agentic-rag-plant-floor-assistant/
